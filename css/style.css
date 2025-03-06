@@ -1,0 +1,29 @@
+body{   
+    background: ghostwhite;
+}
+.pDiferent{
+    color: red;
+}
+.nSeman{
+    color: greenyellow;
+}
+.zPm{
+    color: #775953;
+}
+.colorRGB{
+    color: rgb(115, 17, 29);
+}
+.divRGBA{
+    width: 50%;
+    background-color: rgba(50, 100, 41, 0.3);
+    color: rgba(70, 12, 27, 0.5);
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.divHSL{
+    width: 50%;
+    background-color: hsl(128, 48%, 72%);
+    padding: 20px; /* esto es para dejar un espacio mirar ejemplo */
+    margin-top: auto;
+
+}
